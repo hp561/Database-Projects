@@ -1,0 +1,46 @@
+#searchBar {
+  margin: 15px 2px;
+}
+
+#header {
+  text-align: center;
+}
+
+body {
+  background-image: linear-gradient(to left, #ffafbd 50%, #ffc3a0 100%);
+  /* background-image: linear-gradient(to bottom, #2193b0, #6dd5ed ); */
+
+}
+#header{
+
+  color: #2e0854;
+  font-family: "Arial"
+
+
+}
+
+#addbtn {
+  text-align: center;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+th {
+  text-align: center;
+}
+
+.addInfo {
+  border-style: solid;
+  border-width: 0.5px;
+  height: 250;
+}
+
+.textboxes {
+  margin: 5px;
+}
